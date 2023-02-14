@@ -143,3 +143,9 @@ background-color: black;
 .ssbu:hover {
   filter: grayscale(100%);
 }
+
+@media screen and (max-width: 600px) {
+  .bestMoves {
+    font-size: 32px;
+  }
+}
