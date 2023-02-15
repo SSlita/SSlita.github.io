@@ -23,7 +23,7 @@
 
 /* Partie répertoriant les attaques */
 .bestMoves{
-  font-size: 20px;
+  font-size: 32px;
 }
 
 
@@ -48,6 +48,7 @@
 .characterOverview {
   background-color: rgb(0, 0, 0);
   color: white;
+  font-size: 32px;
 }
 
 h1, h2, h3 {
