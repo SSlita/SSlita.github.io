@@ -146,11 +146,4 @@ background-color: black;
   filter: grayscale(100%);
 }
 
-@media only screen and (max-width: 600px) {
-  .characterOverview{
-    font-size: 32px;
-  }
-  .bestMoves {
-    font-size: 32px;
-  }
-}
+
