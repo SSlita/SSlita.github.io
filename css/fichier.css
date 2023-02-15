@@ -144,7 +144,7 @@ background-color: black;
   filter: grayscale(100%);
 }
 
-@media screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
   .characterOverview{
     font-size: 32px;
   }
