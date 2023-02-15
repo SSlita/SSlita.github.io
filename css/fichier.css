@@ -43,6 +43,7 @@
   
 .characterMoves, .characterConclusion, .tableCharacter{
   margin: auto;
+  width: 100%;
 }
 
 .characterOverview {
